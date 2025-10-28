@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Renan Martins
 
-<!--
-**reenanms/reenanms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Software Engineer with **15+ years** of professional experience in software development, specializing in **C#**, **C++**, and **SQL**. Strong background in **OOP**, **design patterns**, and **software architecture**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over **3 years** of leadership experience managing development teams, implementing agile practices, and driving DevOps adoption. Skilled in delivering robust, scalable solutions across industries such as **CAD**, **manufacturing (MES)**, **accounting**, and **notary systems**.
+
+## Technical Expertise
+
+- **Languages:** C#, C++, SQL
+- **Practices:** Object-Oriented Programming (OOP), Design Patterns, Software Architecture
+- **Leadership:** Team Management, Agile Methodologies, DevOps Implementation
+- **Industries:** CAD Systems, Manufacturing Execution Systems (MES), Accounting, Notary Systems
+
+## Experience Highlights
+
+- 💼 **15+ years** in professional software development
+- 👥 **3+ years** leading and managing development teams
+- 🏗️ Expert in building **robust, scalable solutions**
+- 📈 Strong advocate for **agile practices** and **DevOps culture**
